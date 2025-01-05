@@ -1,6 +1,6 @@
 
 
-<h1 align="center">hey there 👋, I'm Arun Mokashi </h1>
+<h1 align="center">Hey there 👋, I'm Arun Mokashi </h1>
 
 ###
 
