@@ -11,7 +11,7 @@
 <p align="left">
   I'm a passionate AI engineer from India<br><br>
   - 📚 I'm currently learning CS(AI) <br>
-  - ⚡ In my free time I play with snakes 
+  - ⚡ In my free time I play with snake 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="20" alt="Python logo" />
 </p>
 
